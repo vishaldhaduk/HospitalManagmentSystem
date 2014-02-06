@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="home.aspx.cs" Inherits="WebApplication1.home" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="test.aspx.cs" Inherits="WebApplication1.test" %>
 
 <!DOCTYPE html>
 
@@ -10,8 +10,7 @@
     <form id="form1" runat="server">
     <div>
     
-        welcome to git</div>
-        hi
+    </div>
     </form>
 </body>
 </html>
