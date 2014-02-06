@@ -136,13 +136,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="harsh.aspx.cs">
-      <DependentUpon>harsh.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="harsh.aspx.designer.cs">
-      <DependentUpon>harsh.aspx</DependentUpon>
-    </Compile>
     <Compile Include="home.aspx.cs">
       <DependentUpon>home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -157,7 +150,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="harsh.aspx" />
     <Content Include="home.aspx" />
     <Content Include="Images\background.png" />
     <Content Include="Images\arrow.png" />
